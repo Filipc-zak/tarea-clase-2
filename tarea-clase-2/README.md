@@ -7,8 +7,8 @@ Practicar la declaración de variables (let, const), el uso de operadores, funci
 
 ### Procedimiento
 Un documento HTML con:
-- Un \.<h1> que diga *Registro al evento*.
-- Un formulario \.<form> con:
+- Un <h1> que diga *Registro al evento*.
+- Un formulario <form> con:
     - Campo de texto para “Nombre”.
     - Campo numérico para “Edad”.
     - Botón para enviar.
@@ -17,10 +17,10 @@ Un documento JavaScript con:
 - Seleccionar los elementos del formulario usando document.querySelector.
 - Una función que: 
     - Obtiene los valores ingresados.
-    - Usa un operador de comparación \.(>=) para verificar si la edad es mayor o igual a 18.
+    - Usa un operador de comparación (>=) para verificar si la edad es mayor o igual a 18.
     - Muestra un mensaje en pantalla:
-        - Si cumple la condición: “✅ Bienvenido, \.[nombre], tienes acceso al evento.”
-        - Si no la cumple: “❌ Lo sentimos, \.[nombre], debes ser mayor de edad.”
+        - Si cumple la condición: “✅ Bienvenido, [nombre], tienes acceso al evento.”
+        - Si no la cumple: “❌ Lo sentimos, [nombre], debes ser mayor de edad.”
 - Un addEventListener para que la función se ejecute cuando se envíe el formulario.
 - Un event.preventDefault() para evitar el comportamiento por defecto del formulario.
 

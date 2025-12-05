@@ -7,7 +7,7 @@ Practicar la declaración de variables (let, const), el uso de operadores, funci
 
 ### Procedimiento
 Un documento HTML con:
-- Un <h1> que diga *Registro al evento*.
+- Un \<h1> que diga *Registro al evento*.
 - Un formulario <form> con:
     - Campo de texto para “Nombre”.
     - Campo numérico para “Edad”.

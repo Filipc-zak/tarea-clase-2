@@ -1,0 +1,11 @@
+.positivo {
+            color: green;
+            font-weight: bold;
+            text-decoration-color: green;
+        }
+
+.negativo {
+            color: red;
+            font-weight: bold;
+            text-decoration-color: red;
+        }
